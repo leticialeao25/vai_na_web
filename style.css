@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: rgb(240, 68, 174);
+}
+
+img {
+  margin: 50px;
+  width: 250px;
+  border-radius: 150px;
+}
+
+article .cidade .filme .musica {
+  font: 30px lucida;
+  padding: 100px;
+  margin: 30px;
+}
+
+.meunome {
+  background-color: #ed126a;
+  color: rgb(250, 144, 239);
+  padding: 5px;
+  text-align: center;
+  font: 50px Lucida;
+}
+
+p {
+  padding: 5px;
+  margin: 20px;
+  font: 20px verdana;
+}
+
+.cidade {
+  background-color: #ed126a;
+  font-size: 25px;
+}
+
+.section {
+  padding: 20px;
+}
+
+h2 {
+  background-color: #ed126a;
+  color: rgb(250, 144, 239);
+}
+
+ol, ul {
+  color: rgb(17, 17, 17);
+  padding: 20px;
+  font-size: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}/*# sourceMappingURL=style.css.map */
